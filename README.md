@@ -1,3 +1,6 @@
+Published Research: This project is based on a research paper published in IEEE, showcasing real-world application of deep learning in gemstone classification.
+IEEE Xplore link : https://ieeexplore.ieee.org/abstract/document/11345753
+
 Vision-Based Gemstone Classification
 
 A deep learning project that classifies different types of gemstones using image data. This model leverages Convolutional Neural Networks (CNNs) to learn visual patterns such as color, texture, and shape for accurate gemstone identification.
